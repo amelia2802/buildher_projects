@@ -1,6 +1,6 @@
 # Build dApp using Leo
 
-This is a solution to the [buildHer Storeswift workshop task](https://github.com/ava-labs/avalanche-starter-kit/blob/main/src/0-send-receive/_INSTRUCTIONS.md). 
+This is a solution to the [buildHer Storeswift workshop task](https://github.com/ava-labs/avalanche-starter-kit/blob/main/src/0-send-receive/_INSTRUCTIONS.md). Completed the task on codespace.
 
 ## Table of contents
 
@@ -21,7 +21,9 @@ High level understanding of Avalanche's Network architecture, Subnet deployment,
 
 
 ### Screenshot
-![Deployed App](https://github.com/amelia2802/buildher_projects/assets/49182604/3118ca97-36ba-484a-b6d3-7974999f2433)
+![Screenshot (34)](https://github.com/amelia2802/buildher_projects/assets/49182604/ba5eec58-73a8-4b14-8532-5727489b9f20)![Screenshot (36)](https://github.com/amelia2802/buildher_projects/assets/49182604/5f981715-ff2b-49fd-bc32-2c2c7b57d0a4)
+
+
 
 
 
