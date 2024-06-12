@@ -1,6 +1,6 @@
 # Build dApp using Leo
 
-This is a solution to the [buildHer Storeswift workshop task](https://github.com/ava-labs/avalanche-starter-kit/blob/main/src/0-send-receive/_INSTRUCTIONS.md). 
+This is a solution to the [buildHer Storeswift workshop task](https://github.com/ava-labs/avalanche-starter-kit/blob/main/src/0-send-receive/_INSTRUCTIONS.md). Completed the task on codespace.
 
 ## Table of contents
 
