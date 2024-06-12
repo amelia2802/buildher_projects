@@ -1,4 +1,4 @@
-# Build dApp using Leo
+# buildHer Algorand workshop task
 
 This is a solution to the [buildHer Algorand workshop task](https://github.com/Ganainmtech/codespace_algorand). Completed the task on codespace.
 
@@ -8,7 +8,6 @@ This is a solution to the [buildHer Algorand workshop task](https://github.com/G
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
 - [My process](#my-process)
-  - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -24,7 +23,9 @@ Clawback x number of created asset
 
 
 ### Screenshot
-![Screenshot (34)](https://github.com/amelia2802/buildher_projects/assets/49182604/ba5eec58-73a8-4b14-8532-5727489b9f20)![Screenshot (36)](https://github.com/amelia2802/buildher_projects/assets/49182604/5f981715-ff2b-49fd-bc32-2c2c7b57d0a4)
+![Screenshot (38)](https://github.com/amelia2802/buildher_projects/assets/49182604/3b945de9-7796-46d3-8a48-8acd580ef2cf)
+![Screenshot (41)](https://github.com/amelia2802/buildher_projects/assets/49182604/4f8b5d3e-f9b4-4342-ac0e-11e6fb35d8d0)
+
 
 
 ### Useful resources
