@@ -1,6 +1,6 @@
 # Build dApp using Leo
 
-This is a solution to the [buildHer Storeswift workshop task](https://github.com/marco-storswift/aleo_zkworkshop). 
+This is a solution to the buildHer Greenpill workshop task.
 
 ## Table of contents
 
@@ -8,10 +8,6 @@ This is a solution to the [buildHer Storeswift workshop task](https://github.com
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 
@@ -19,7 +15,7 @@ This is a solution to the [buildHer Storeswift workshop task](https://github.com
 
 ### The challenge
 
-Use the Leo development language to build a dApp & deploy to GitHub.
+💻 Create a builder's profile page on Gitcoin's Grant Stack.
 
 
 ### Screenshot
