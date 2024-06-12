@@ -1,6 +1,6 @@
 # Build dApp using Leo
 
-This is a solution to the [buildHer Storeswift wokshop task](https://github.com/marco-storswift/aleo_zkworkshop). 
+This is a solution to the [buildHer Storeswift workshop task](https://github.com/marco-storswift/aleo_zkworkshop). 
 
 ## Table of contents
 
