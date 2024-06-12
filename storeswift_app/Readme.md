@@ -23,8 +23,7 @@ Use the Leo development language to build a dApp & deploy to GitHub.
 
 
 ### Screenshot
-
-![](./screenshot.jpg)
+![Deployed App](https://github.com/amelia2802/buildher_projects/assets/49182604/3118ca97-36ba-484a-b6d3-7974999f2433)
 
 
 ### Links
