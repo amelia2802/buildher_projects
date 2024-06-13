@@ -1,4 +1,4 @@
-# Build dApp using Leo
+# Build smart contract
 
 This is a solution to the [buildHer Matter Labs workshop task](https://docs.zksync.io/build/quick-start). 
 
@@ -24,8 +24,25 @@ This is a solution to the [buildHer Matter Labs workshop task](https://docs.zksy
 
 
 ### Screenshot
-![Deployed App](https://github.com/amelia2802/buildher_projects/assets/49182604/3118ca97-36ba-484a-b6d3-7974999f2433)
-
+ <table>
+    <tr>
+      <td width="20%">
+        <img src="https://github.com/amelia2802/buildher_projects/assets/49182604/4eca1366-e5fd-4fb1-a579-bf57618b7d0a"?
+      </td>
+      <td width="20%">
+        <img src="https://github.com/amelia2802/buildher_projects/assets/49182604/b88d9fba-77b0-4204-ba3b-568c63e5ac6b">
+      </td>
+      <td width="20%">
+        <img src="https://github.com/amelia2802/buildher_projects/assets/49182604/2e0c3d1c-c356-45af-a284-d86063fe98ca">
+      </td>
+      <td width="20%">
+        <img src="https://github.com/amelia2802/buildher_projects/assets/49182604/8f663aa0-c962-4192-a918-d816293b915f">
+      </td>
+      <td width="20%">
+        <img src="https://github.com/amelia2802/buildher_projects/assets/49182604/d2d5bf95-5cf2-4f82-a968-89b1526a48fd"
+      </td>
+  </tr>
+</table>
 
 ## My process
 
