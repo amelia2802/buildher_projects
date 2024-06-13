@@ -13,7 +13,7 @@ This is a solution to the [buildHer Storeswift workshop task](https://github.com
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-
+- [Acknowledgement](#acknowledgement)
 
 ## Overview
 
@@ -56,4 +56,6 @@ Overall, this experience has not only enhanced my technical skills but also impr
 ## Author
 
 - Website - [Amelia D.](https://ameliadutta.netlify.app/)
-
+  
+## Acknowledgement
+Thank you @marco-storswift for the wonderful explanation and for providing resources that contributed to the completion of this task.
