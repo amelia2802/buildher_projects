@@ -18,7 +18,8 @@ This is a solution to the buildHer Greenpill workshop task.
 
 
 ### Screenshot
-![Deployed App](https://github.com/amelia2802/buildher_projects/assets/49182604/3118ca97-36ba-484a-b6d3-7974999f2433)
+![Screenshot (52)](https://github.com/amelia2802/buildher_projects/assets/49182604/b5fee325-ef33-4120-9cf5-743120d1a8f1)
+
 
 ## Author
 
