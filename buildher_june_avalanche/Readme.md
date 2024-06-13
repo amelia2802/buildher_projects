@@ -1,4 +1,4 @@
-# BbuildHer Avalanche workshop
+# BuildHer Avalanche workshop
 
 This is a solution to the [buildHer Avalanche workshop task](https://github.com/ava-labs/avalanche-starter-kit/blob/main/src/0-send-receive/_INSTRUCTIONS.md). Completed the task on codespace.
 
@@ -11,6 +11,7 @@ This is a solution to the [buildHer Avalanche workshop task](https://github.com/
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgement](#acknowledgement)
 
 
 ## Overview
@@ -53,3 +54,5 @@ This project enhanced my practical skills in blockchain technology and network d
 
 - Website - [Amelia D.](https://ameliadutta.netlify.app/)
 
+## Acknowledgement
+Thank you [meagfitzgerald](https://twitter.com/meagfitzgerald) for the wonderful explanation and for providing resources that contributed to the completion of this task.
