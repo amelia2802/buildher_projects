@@ -1,6 +1,6 @@
-# Create a builder's profile page on Gitcoin's Grant Stack.
+# Complete the contract and deploy it and share the details in a form 
 
-This is a solution to the buildHer Greenpill workshop task.
+This is a solution to the buildHer aleo workshop task.
 
 ## Table of contents
 
@@ -14,11 +14,12 @@ This is a solution to the buildHer Greenpill workshop task.
 
 ### The challenge
 
-💻 Create a builder's profile page on Gitcoin's Grant Stack.
+💻 Complete the contract and deploy it and share the details in a form 
 
 
 ### Screenshot
-![Screenshot (52)](https://github.com/amelia2802/buildher_projects/assets/49182604/b5fee325-ef33-4120-9cf5-743120d1a8f1)
+![Screenshot (84)](https://github.com/user-attachments/assets/aa4292c2-ec45-48a8-be7f-95d0e7b325d8)
+![Screenshot (85)](https://github.com/user-attachments/assets/f247aa18-bb31-4ef0-a185-e791dacce32a)
 
 
 ## Author
